@@ -1,5 +1,8 @@
 _repo: Nummer-Elf-b-Oorspronkelijke-roman_70054
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70054-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Daum, P. A. (Paul Adriaan)
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paulus_Adrianus_Daum
     - https://nl.wikipedia.org/wiki/Paul_Adriaan_Daum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70054#Nummer-Elf-b-Oorspronkelijke-roman
 gutenberg_issued: '2023-02-16'
 identifiers:
   gutenberg: '70054'
